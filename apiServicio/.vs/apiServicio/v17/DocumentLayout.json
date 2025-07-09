@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\apiServicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|c:\\users\\hp\\source\\repos\\apiservicio\\apiservicio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|solutionrelative:apiservicio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|c:\\users\\hp\\source\\repos\\apiservicio\\apiservicio\\apiservicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|solutionrelative:apiservicio\\apiservicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|c:\\users\\hp\\source\\repos\\apiservicio\\apiservicio\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|solutionrelative:apiservicio\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|c:\\users\\hp\\source\\repos\\apiservicio\\apiservicio\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|solutionrelative:apiservicio\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|c:\\users\\hp\\source\\repos\\apiservicio\\apiservicio\\services\\contracts\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|solutionrelative:apiservicio\\services\\contracts\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|c:\\users\\hp\\source\\repos\\apiservicio\\apiservicio\\business\\contracts\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|solutionrelative:apiservicio\\business\\contracts\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|c:\\users\\hp\\source\\repos\\apiservicio\\apiservicio\\services\\clases\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|solutionrelative:apiservicio\\services\\clases\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|c:\\users\\hp\\source\\repos\\apiservicio\\apiservicio\\business\\clases\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|solutionrelative:apiservicio\\business\\clases\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|c:\\users\\hp\\source\\repos\\apiservicio\\apiservicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9367983-D455-422B-936D-D4010D7FE3D7}|apiServicio\\apiServicio.csproj|solutionrelative:apiservicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\appsettings.json",
+              "RelativeDocumentMoniker": "apiServicio\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\appsettings.json",
+              "RelativeToolTip": "apiServicio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T23:39:18.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "apiServicio.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\apiServicio.csproj",
+              "RelativeDocumentMoniker": "apiServicio\\apiServicio.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\apiServicio.csproj",
+              "RelativeToolTip": "apiServicio\\apiServicio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T19:07:33.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "apiServicio\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\Models\\Rol.cs",
+              "RelativeToolTip": "apiServicio\\Models\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:41:13.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRolService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\Services\\Contracts\\IRolService.cs",
+              "RelativeDocumentMoniker": "apiServicio\\Services\\Contracts\\IRolService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\Services\\Contracts\\IRolService.cs",
+              "RelativeToolTip": "apiServicio\\Services\\Contracts\\IRolService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T00:55:22.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRolRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\Business\\Contracts\\IRolRepository.cs",
+              "RelativeDocumentMoniker": "apiServicio\\Business\\Contracts\\IRolRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\Business\\Contracts\\IRolRepository.cs",
+              "RelativeToolTip": "apiServicio\\Business\\Contracts\\IRolRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T00:44:34.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\Services\\Clases\\RolService.cs",
+              "RelativeDocumentMoniker": "apiServicio\\Services\\Clases\\RolService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\Services\\Clases\\RolService.cs",
+              "RelativeToolTip": "apiServicio\\Services\\Clases\\RolService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T00:55:02.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "apiServicio\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\Controllers\\RolController.cs",
+              "RelativeToolTip": "apiServicio\\Controllers\\RolController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T00:59:00.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RolRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\Business\\Clases\\RolRepository.cs",
+              "RelativeDocumentMoniker": "apiServicio\\Business\\Clases\\RolRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\Business\\Clases\\RolRepository.cs",
+              "RelativeToolTip": "apiServicio\\Business\\Clases\\RolRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T00:41:16.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\Program.cs",
+              "RelativeDocumentMoniker": "apiServicio\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\apiServicio\\apiServicio\\Program.cs",
+              "RelativeToolTip": "apiServicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T01:10:31.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
